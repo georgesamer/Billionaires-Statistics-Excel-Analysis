@@ -16,5 +16,4 @@ This project provides a comprehensive data analysis of global billionaires stati
 * **Interactive Filtering:** Built-in slicers for categories, self-made status, and gender to allow dynamic data exploration[cite: 1].
 
 ## 📷 Dashboard Preview
-![Billionaires-Statistics-Excel-Analysis]
-(assets/Billionaires-Statistics-Excel-Analysis.png)
+![Billionaires-Statistics-Excel-Analysis](assets/Billionaires-Statistics-Excel-Analysis.png)
